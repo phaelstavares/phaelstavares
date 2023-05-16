@@ -1,6 +1,6 @@
 <h2>Oi! Eu sou o Raphael Tavares</h2>
 
-<p>Aprendendo HTML, CSS e JavaScript.</p>
+<p>Estudante de TI com o objetivo de aprender novas tecnologias, desenvolver, programar, investigar problemas e proteger sistemas.</p>
 
 <div>
   <div style="display: inline_block"><br>
