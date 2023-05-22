@@ -12,8 +12,6 @@
 
 <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phaelstavares&theme=blue-green)
-
 ![Raphael GitHub stats](https://github-readme-stats.vercel.app/api?username=phaelstavares&show_icons=true&theme=dracula)
 
 <hr>
