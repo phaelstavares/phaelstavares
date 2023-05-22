@@ -2,8 +2,6 @@
 
 <p>🌱 Estudante de <strong>Sistemas de Informação</strong> com o objetivo de aprender novas tecnologias, desenvolver, programar e proteger sistemas.</p>
 
-<hr>
-
 <div>
   <div style="display: inline_block"><br>
   <img align="center" alt="vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
@@ -13,6 +11,8 @@
 </div>
 
 <br>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phaelstavares&theme=blue-green)
 
 ![Raphael GitHub stats](https://github-readme-stats.vercel.app/api?username=phaelstavares&show_icons=true&theme=dracula)
 
