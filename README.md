@@ -1,6 +1,6 @@
 <h2>Oi! Eu sou o Raphael Tavares (ou Raph, phael)</h2>
 
-<p>Estudante de TI com o objetivo de aprender novas tecnologias, desenvolver, programar e proteger sistemas.</p>
+<p>Estudante de <strong>Sistemas de Informação</strong> com o objetivo de aprender novas tecnologias, desenvolver, programar e proteger sistemas.</p>
 
 <div>
   <div style="display: inline_block"><br>
