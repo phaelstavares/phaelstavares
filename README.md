@@ -1,6 +1,12 @@
-<h2>Oi! Eu sou o Raphael Tavares (ou Raph, phael)</h2>
+<h2>Hello, eu sou o Raphael Tavares <small>(ou Raph, phael)</small></h2>
 
-<p>🌱 Estudante de <strong>Sistemas de Informação</strong> com o objetivo de aprender novas tecnologias, desenvolver, programar e proteger sistemas.</p>
+<p>🌱 Estudante de TI com o objetivo de aprender novas tecnologias, desenvolver, programar e proteger sistemas.</p>
+
+<p>
+• Cursando <strong>Sistemas de Informação</strong> 1/8 <br>
+• Aprendendo Front-end (HTML, CSS e JavaScript + Node.js) <br>
+• Conhecimento em Segurança da Informação. <br>
+</p>
 
 <div>
   <div style="display: inline_block"><br>
