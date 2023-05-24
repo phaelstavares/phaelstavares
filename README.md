@@ -1,4 +1,4 @@
-<h2>Hello, eu sou o Raphael Tavares <small>(ou Raph, phael)</small></h2>
+<h2>Hello, eu sou o Raphael Tavares (ou Raph, phael)</h2>
 
 <p>🌱 Estudante de TI com o objetivo de aprender novas tecnologias, desenvolver, programar e proteger sistemas.</p>
 
