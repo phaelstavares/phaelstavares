@@ -9,7 +9,7 @@
 </p>
 
 <div>
-  <h2>Tecnologias que utilizo:</h2>
+  <h2>🛠️ Tecnologias que utilizo:</h2>
   <div style="display: inline_block"><br>
   <img align="center" alt="GitHub" height="35" width="35" src="https://cdn.icon-icons.com/icons2/2429/PNG/512/github_logo_icon_147285.png">
   <img align="center" alt="vscode" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
@@ -24,8 +24,8 @@
 
 ![Raphael GitHub stats](https://github-readme-stats.vercel.app/api?username=phaelstavares&show_icons=true&theme=dracula)
   
-<div> 
-  <a href="https://instagram.com/phaelstavares" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<div>
   <a href="https://www.linkedin.com/in/phaelstavares/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/phaelstavares" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://open.spotify.com/user/yfv8ljvxo75q59pq4brsc62g7" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>
 </div>
