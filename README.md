@@ -1,4 +1,4 @@
-<h2>🌎 Hello World, eu sou o Raphael Tavares!</h2>
+<h2><strong>🌎 Hello World, eu sou o Raphael Tavares!</strong></h2>
 
 <p>🌱 Estudante de TI com o objetivo de aprender novas tecnologias, desenvolver, programar e proteger sistemas.</p>
 
@@ -9,7 +9,7 @@
 </p>
 
 <div>
-  <h2>🛠️ Tecnologias que eu utilizo:</h2>
+  <h2><strong>🛠️ Tecnologias que eu utilizo:</strong></h2>
   <div style="display: inline_block"><br>
   <img align="center" alt="GitHub" height="35" width="35" src="https://cdn.icon-icons.com/icons2/2429/PNG/512/github_logo_icon_147285.png">
   <img align="center" alt="vscode" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
