@@ -9,7 +9,7 @@
 </p>
 
 <div>
-  <h2>🛠️ Tecnologias:</h2>
+  <h2>🛠️ Tecnologias que eu utilizo:</h2>
   <div style="display: inline_block"><br>
   <img align="center" alt="GitHub" height="35" width="35" src="https://cdn.icon-icons.com/icons2/2429/PNG/512/github_logo_icon_147285.png">
   <img align="center" alt="vscode" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
