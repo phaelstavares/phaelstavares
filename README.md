@@ -3,7 +3,7 @@
 <p>🌱 Estudante de TI com o objetivo de aprender novas tecnologias, desenvolver, programar e proteger sistemas.</p>
 
 <p>
-• 💡 Cursando Sistemas de Informação 1/8 <br>
+• 💡 Cursando Sistemas de Informação 2/8 <br>
 • 📚 Aprendendo Front-end (HTML, CSS e JavaScript) <br>
 • 🔒 Conhecimento em Segurança da Informação <br>
 </p>
