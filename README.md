@@ -5,7 +5,6 @@
 <p>
 • 💡 Cursando Sistemas de Informação 2/8 <br>
 • 📚 Aprendendo Front-end (HTML, CSS e JavaScript) <br>
-• 🔒 Conhecimento em Segurança da Informação <br>
 </p>
 
 <div>
