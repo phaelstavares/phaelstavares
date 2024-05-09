@@ -22,6 +22,7 @@
 
 #### Alguns projetos:
 
+- [Chatbot: Gemini API e Google Colab](https://github.com/phaelstavares/imersaoIA-chatbot)
 - [Landing page: Rocketeer Helmets](https://phaelstavares.github.io/RocketeerHelmets/)
 - [Aplicação em React e Node.js: Cadastro de usuários](https://github.com/phaelstavares/projeto-Cadastro)
 - [Aplicação em React: Sistema de check-in](https://github.com/phaelstavares/projeto-check-in)
