@@ -1,10 +1,11 @@
-### 🌎 Olá, eu sou o Raphael Tavares | Desenvolvedor Front-end
+### 🌎 Olá, eu sou o Raphael Tavares
 
+- 🧑🏽‍💻 Programador e Desenvolvedor Front-end
 - 💡 Graduando em Sistemas de Informação 3/8
 - 📝 Cursando formação Full Stack
 - 🔒 Aprendizado em conceitos básicos de Segurança da Informação
 
-#### Ferramentas e linguagens:
+### Ferramentas e linguagens
 
 <div>
   <img align="center" alt="GitHub" height="35" width="40" src="https://cdn.simpleicons.org/github/000000/ffffff">
@@ -20,7 +21,7 @@
   <img align="center" alt="TypeScript" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"> -->
 </div>
 
-#### Alguns projetos:
+### Projetos
 
 - [Chatbot: Gemini API e Google Colab](https://github.com/phaelstavares/imersaoIA-chatbot)
 - [Landing page: Rocketeer Helmets](https://phaelstavares.github.io/RocketeerHelmets/)
@@ -29,3 +30,8 @@
 - [Conversor de Moedas: Utilizando API](https://phaelstavares.github.io/projeto-ConversorDeMoedas/) 
 - [Página de Cafeteria](https://phaelstavares.github.io/Cafena-Cafeteria/)
 - [Landing page: Encanadores Mario & Luigi](https://phaelstavares.github.io/projeto-MarioLuigiEncanadores/)
+
+### Conecte-se
+<div>
+  <a href="https://www.linkedin.com/in/phaelstavares/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
