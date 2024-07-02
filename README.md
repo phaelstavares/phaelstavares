@@ -1,7 +1,7 @@
 ### 🌎 Olá, eu sou o Raphael Tavares
 
 - 🪄 Programador e Desenvolvedor Front-end
-- 💡 Graduando em Sistemas de Informação (3/8)
+- 💡 Graduando em Sistemas de Informação (4/8)
 - 🎓 Cursando uma Formação Full Stack
 
 #### Ferramentas e linguagens:
@@ -16,7 +16,7 @@
   <img align="center" alt="JavaScript" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Node.js" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="React" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg">
-  <img align="center" alt="TypeScript" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg">
+  <img align="center" alt="TailwindCSS" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg">
 </div>
 
 #### Projetos:
