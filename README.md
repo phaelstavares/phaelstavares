@@ -21,6 +21,7 @@
 
 #### Projetos:
 
+- [React Native: AppDelivery](https://github.com/phaelstavares/AppDelivery)
 - [Landing page: Dev Burguer](https://github.com/phaelstavares/DevBurguer)
 - [Chatbot: Gemini API e Google Colab](https://github.com/phaelstavares/imersaoIA-chatbot)
 - [Landing page: Rocketeer Helmets](https://phaelstavares.github.io/RocketeerHelmets/)
