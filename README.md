@@ -2,7 +2,7 @@
 
 - 🪄 Programador e Desenvolvedor Front-end
 - 💡 Graduando em Sistemas de Informação (4/8)
-- 🎓 Cursando uma Formação Full Stack
+- 🎓 Cursando Formação Full Stack
 
 #### Ferramentas e linguagens:
 
@@ -17,6 +17,8 @@
   <img align="center" alt="Node.js" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="React" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg">
   <img align="center" alt="TailwindCSS" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg">
+  <img align="center" alt="Sequelize" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sequelize/sequelize-original.svg">
+  <img align="center" alt="Docker" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg">
 </div>
 
 #### Projetos:
