@@ -1,8 +1,8 @@
-### 🌎 Olá, eu sou o Raphael Tavares
+### 🌎 Olá, eu sou o Raphael Tavares | Desenvolvedor de Software
 
-- 🪄 Desenvolvedor de Software
 - 🎓 Graduando em Sistemas de Informação
-- 💡 Cursando Formação Full Stack
+- ⚙️ Cursando Desenvolvimento de Sistemas
+- 📱 Formação Full Stack
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="32" alt="vscode logo"  />
